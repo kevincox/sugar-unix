@@ -1,0 +1,23 @@
+{
+  "name": "sugar-unix",
+  "version": "0.0.0",
+  "description": "Unix timestamps for sugar.",
+  "main": "sugar-unix.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kevincox/sugar-unix.git"
+  },
+  "keywords": [
+    "sugar",
+    "time",
+    "date",
+    "timestamp",
+    "unix"
+  ],
+  "author": "Kevin Cox <kevincox.ca@gmail.com>",
+  "license": "zlib",
+  "readmeFilename": "README.md"
+}
